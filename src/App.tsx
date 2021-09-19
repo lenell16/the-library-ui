@@ -3,7 +3,7 @@ import { Composition } from 'atomic-layout';
 import { createUseStyles } from 'react-jss';
 import Navigation from './components/Navigation';
 import { useRoute } from './router';
-import SingleGroupPage from './pages/SingleGroupPage';
+// import SingleGroupPage from './pages/SingleGroupPage';
 import AllTabs from './pages/AllTabs';
 import { Suspense } from 'react';
 
